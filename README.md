@@ -3,10 +3,10 @@
 ### About Me :
 - I'm a frontend developer
 - How to reach me: <a href="https://t.me/about_viktor">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+	<img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:vg.shenshin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail" alt="Gmail Badge"/>
+	<img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail" alt="Gmail Badge"/>
   </a>
 ---
  ### Languages and Tools :
@@ -57,10 +57,10 @@
 	</a>
 	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
 		<img 
-		     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-		     alt="sass"
-		     width="50"
-		     height="50"
+			 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+			 alt="sass"
+			 width="50"
+			 height="50"
 		/>
 	</a>
 	<a href="https://webpack.js.org" target="_blank" rel="noreferrer">
@@ -79,8 +79,32 @@
 			height="50"
 		/>
 	</a>
+	<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+		<img 
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" 
+			alt="Bootstrap" 
+			width="50" 
+			height="50" 
+		/>
+	</a>
+	<a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+		<img 
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" 
+			alt="Babel" 
+			width="50" 
+			height="50" 
+		/>
+	</a>
+	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+		<img 
+			src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" 
+			alt="Figma" 
+			width="50" 
+			height="50" 
+			/>
+	</a>
 </div>
 
 ### Statictics
-![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=vgshenshin&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgshenshin&layout=compact)
 [![codewars](https://www.codewars.com/users/vgshenshin/badges/large)](https://www.codewars.com/users/vgshenshin)
