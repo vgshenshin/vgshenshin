@@ -9,6 +9,15 @@
 	<img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail" alt="Gmail Badge"/>
   </a>
 ---
+### Projects
+
+1. <a href="https://heroes-react-redux-vgshenshin.vercel.app/" target="_blank">Heroes-React-Redux</a> (<a href="https://github.com/vgshenshin/heroes-react-redux" target="_blank">Code</a>)
+2. <a href="https://marvel-react-nine.vercel.app/" target="_blank">Marvel-React</a> (<a href="https://github.com/vgshenshin/Marvel-React" target="_blank">Code</a>)
+3. <a href="https://vgshenshin.github.io/food/" target="_blank">Food</a> (<a href="https://github.com/vgshenshin/food" target="_blank">Code</a>)
+4. <a href="https://vgshenshin.github.io/pulse/" target="_blank">Pulse</a> (<a href="https://github.com/vgshenshin/pulse" target="_blank">Code</a>)
+5. <a href="https://vgshenshin.github.io/Oculus/" target="_blank">Oculus Landing Page</a> (<a href="https://github.com/vgshenshin/Oculus" target="_blank">Code</a>)
+
+---
  ### Languages and Tools :
 <div>
 	<a
